@@ -4,7 +4,7 @@
 I used pygame module to make this game it is a simple snake game that you control the snake with "up" "left" "right" "down" buttons and there is not much to it 
 in an infinite loop until the user hits exit the display will get updated and if the button's event happens the snake will change the direction of its movement 
 
-<img src="Pics/Snake.png" width="400" class="center" />
+<img src="Pic/Snake.png" width="400" class="center" />
 
 # Voice control: 
 I used https://github.com/Picovoice/porcupine for voice control 
@@ -18,3 +18,5 @@ It is a simple CNN that I trained with my own data but I didn't have time to imp
 there is a training code and CNN code the CNN code is that I'm using it with a webcam and if I show the right gesture the model will predict the result and with pygui, it will change the snake movement direction
 # Application : 
 I wanted to make steam like application but is an offline one you will sign up it will save the information in an excel file and I used thread to be able to run both game and different control method of if 
+
+There is Videos of playing this game in video folder
