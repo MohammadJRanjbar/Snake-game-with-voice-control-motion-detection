@@ -3,6 +3,9 @@
 # Snake game : 
 I used pygame module to make this game it is a simple snake game that you control the snake with "up" "left" "right" "down" buttons and there is not much to it 
 in an infinite loop until the user hits exit the display will get updated and if the button's event happens the snake will change the direction of its movement 
+
+<img src="Pics/Snake.png" width="400" class="center" />
+
 # Voice control: 
 I used https://github.com/Picovoice/porcupine for voice control 
 first, you should clone their GitHub repository in the assets files then I used their console (https://picovoice.ai/console/) to make my wake words in this case "Snake up " "go left" "go right " "go down" then I used pygui module so one if the wake words have been heard the correspondent button will be pressed 
