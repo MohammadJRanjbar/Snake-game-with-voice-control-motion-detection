@@ -16,7 +16,7 @@ the base Method is I detected a color that I wanted in the picture (webcam) usin
 # gesture-recognition : 
 It is a simple CNN that I trained with my own data but I didn't have time to improve it and the model became overfit and the result was not good but I included it anyway 
 there is a training code and CNN code the CNN code is that I'm using it with a webcam and if I show the right gesture the model will predict the result and with pygui, it will change the snake movement direction
-# Application : 
+# Store : 
 I wanted to make steam like application but is an offline one you will sign up it will save the information in an excel file and I used thread to be able to run both game and different control method of if 
 
 There is Videos of playing this game in video folder
